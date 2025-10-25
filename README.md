@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**afiSali/afiSali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an experienced Software Engineer with years of hands-on experience in designing and building scalable and high-performance applications.
+Over time, I leveraged my strong background in software engineering to move into the world of Artificial Intelligence and Data Engineering, where I now focus on creating intelligent, data-driven solutions.
 
-Here are some ideas to get you started:
+⸻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 What I Do
+	•	🧠 Deep Learning, NLP, Time-Series Forecasting
+	•	📊 Data Engineering & Visualization 
+	•	🌱 Researching renewable energy forecasting using ML
+	•	🤝 Active contributor in AI & software development communities
+
+⸻
+
+🎯 Current Focus
+
+Building smart AI-driven systems that combine software engineering excellence with data intelligence.
