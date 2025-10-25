@@ -6,13 +6,13 @@ Over time, I leveraged my strong background in software engineering to move into
 ⸻
 
 🚀 What I Do
-	•	🧠 Deep Learning, NLP, Time-Series Forecasting
-	•	📊 Data Engineering & Visualization 
-	•	🌱 Researching renewable energy forecasting using ML
-	•	🤝 Active contributor in AI & software development communities
+	•	🧠 Deep Learning, NLP, Time-Series Forecasting <br>
+	•	📊 Data Engineering & Visualization <br>
+	•	🌱 Researching renewable energy forecasting using ML <br>
+	•	🤝 Active contributor in AI & software development communities <br>
 
 ⸻
 
-🎯 Current Focus
+🎯 Current Focus<br>
 
-Building smart AI-driven systems that combine software engineering excellence with data intelligence.
+Building smart AI-driven systems that combine software engineering excellence with data intelligence.<br>
